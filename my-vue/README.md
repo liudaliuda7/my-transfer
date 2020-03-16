@@ -1,6 +1,6 @@
 # my-vue
 
-本组件使用的是element-ui的transform与select组件结合，简化transform的代码，实现自定义组件
+本组件使用的是element-ui的transfer与select组件结合，简化transfer的代码，实现自定义组件
 
 > A Vue.js project
 
